@@ -1,0 +1,49 @@
+* {
+  padding: 0px;
+  outline: 0px;
+}
+
+.heading {
+  position: relative;
+  left: 60px;
+  bottom: 50px;
+}
+.ul-list {
+  display: flex;
+  justify-content: space-around;
+}
+.list-item {
+  display: flex;
+  justify-content: space-around;
+}
+.link {
+  display: inline-block;
+  justify-content: space-around;
+  text-decoration: none;
+}
+.signup-link {
+  font-weight: bold;
+  text-decoration: none;
+}
+.list-item {
+  list-style: none;
+}
+.main-image-bg {
+  position: relative;
+  left: 66rem;
+  height: 350px;
+  width: 350px;
+  bottom: 200px;
+}
+.main-image {
+  position: relative;
+  left: 50rem;
+  bottom: 15rem;
+}
+.main-image-pattern {
+  position: relative;
+  left: 30em;
+  height: 350px;
+  width: 350px;
+  bottom: 15rem;
+}
